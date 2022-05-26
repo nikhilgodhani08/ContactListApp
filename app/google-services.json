@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240068939020",
+    "project_id": "contactlistapp-401cd",
+    "storage_bucket": "contactlistapp-401cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240068939020:android:912036b6f693f0e4414d29",
+        "android_client_info": {
+          "package_name": "com.example.contactlistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240068939020-us8ssfcj1ipik3dm1mhdhqv1j9a9p354.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactlistapp",
+            "certificate_hash": "1a3cf77a4b79f222f28faa10cf12210572b029d2"
+          }
+        },
+        {
+          "client_id": "240068939020-nk977eq8stii8jpjo579g0t7bues74fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aczCIs3jmHCwPdPzp7sZQAjduGltnRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240068939020-nk977eq8stii8jpjo579g0t7bues74fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

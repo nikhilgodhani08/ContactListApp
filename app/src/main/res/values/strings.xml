@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ContactListApp</string>
+    <string name="name">Name</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="add_image">Add Image</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
+    <string name="no_contact_added">No contact Added</string>
+    <string name="edit_contact">Edit Contact</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="20dp"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/changeName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/custom_edittext"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:textSelectHandle="@color/black"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/changeNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_edittext"
+        android:gravity="center"
+        android:inputType="phone"
+        android:maxLength="11"
+        android:textSelectHandle="@color/black"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/changeSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custom_button"
+        android:text="@string/save"
+        android:textStyle="bold" />
+
+</LinearLayout>
